@@ -29,7 +29,11 @@ The project uses the following equipments:
 ----
 This is the final prototype:
 
-![]()
+![](images/Picture1.jpg)
+
+This is the Component Integration:
+
+![](images/Picture2.jpg)
 
 
 # License
