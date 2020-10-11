@@ -27,7 +27,9 @@ The project uses the following equipments:
 
 # Device & Component Integration
 ----
+This is the final prototype:
 
+![]()
 
 
 # License
