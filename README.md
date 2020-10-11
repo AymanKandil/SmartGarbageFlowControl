@@ -39,7 +39,7 @@ This is the Component Integration:
 # License
 ----
 
-MIT
+BSD 3-Clause License
 
 # Copyright Disclaimer
 ----
