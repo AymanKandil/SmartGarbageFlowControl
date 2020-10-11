@@ -33,7 +33,7 @@ This is the final prototype:
 
 This is the Component Integration:
 
-![](images/Picture2.jpg)
+![](images/Picture2.png)
 
 
 # License
